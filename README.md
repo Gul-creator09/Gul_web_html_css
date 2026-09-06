@@ -1,13 +1,8 @@
 Hi, I'm Rehab Gul
 
 This is my personal portfolio website.
-
-Live: https://your-username.github.io/Gul-Web-Portfolio/
-
 About
-
 BS Artificial Intelligence student at Pak-Austria Fachhochschule. Showcasing my skills, experience, certifications, and projects.
-
 Tech
 
 HTML | CSS | JavaScript | Tailwind CSS | Font Awesome
